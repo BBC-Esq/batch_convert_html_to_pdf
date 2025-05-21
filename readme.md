@@ -1,5 +1,5 @@
 ### Step 1
-create a [virtual environment](https://realpython.com/python-virtual-environments-a-primer/):
+Create a [virtual environment](https://realpython.com/python-virtual-environments-a-primer/):
 ```
 python -m venv .
 ```
