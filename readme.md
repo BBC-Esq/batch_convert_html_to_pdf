@@ -23,5 +23,6 @@ Modify this portion of ```convert_html_to_pdf.py``` to point to the executable:<
 ```
 python convert_html_to_pdf.py
 ```
+* IMPORTANT: The script will create a folder with the pdf files in the same directory that your script is located, NOT the directory containing the folder that you selected to process.
 ## Picture
 ![image](https://github.com/user-attachments/assets/89b19cc1-1e5a-4e85-bb13-c96b518c6a01)
